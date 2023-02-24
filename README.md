@@ -26,12 +26,11 @@ Projeto do desafio boracodar 1 da Rocketseat, apenas versão de testes. <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://gabriel-nascimento-sousa.github.io/calculadora/)
+- [Visite o projeto online](https://gabriel-nascimento-sousa.github.io/Music-Player/)
 
 ---
 
