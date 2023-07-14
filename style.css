@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #0F0D13;
+    background-color: rgba(255, 68, 0, 0.849);
 }
 
 #app{
@@ -31,17 +31,20 @@ body{
     height: 440px;
     padding: 29px;
     text-align: center; 
+    border: 2px solid white;
 }
 
 #screen2{
     width: 357.71px;
     height: 266.68px;
+    border: 2px solid white;
 }
 
 #screen3{
     margin-top: 32px;
     width: 357.71px;
     height: 199.26px;
+    border: 2px solid white;
 }
 
 ul{
